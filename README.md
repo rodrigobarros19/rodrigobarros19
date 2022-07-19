@@ -5,7 +5,7 @@
 - 📚 Estudando Análise e Desenvolvimento de Sistemas;
 - 🌱 Aprendendo HTML5, CSS3, JavaScript, entre outros;
 - 💻 Procurando aprender novas tecnologias;
-- 👨🏻‍💻 Procurando colaborar em novos projetos.
+- 👨🏻‍💻 Buscando colaborar em novos projetos.
 
 <a href="https://www.facebook.com/rdkeyboard/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
