@@ -7,8 +7,10 @@
 - 💻  Procurando aprender novas tecnologias;
 - 👨🏻‍💻  Buscando colaborar em novos projetos.
 
+<b>SIGA-ME NAS REDES SOCIAIS</b> ⤵
+
 <a href="https://www.facebook.com/rdkeyboard/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://seeklogo.com/images/F/facebook-logo-C64946D6D2-seeklogo.com.png" />
+  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://seeklogo.com/images/F/facebook-logo-C64946D6D2-seeklogo.com.png" />
 </a>
 
 <a href="https://www.instagram.com/rodrigobarrosreal/">
@@ -16,7 +18,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/rodrigobarros19/">
-  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <hr>
