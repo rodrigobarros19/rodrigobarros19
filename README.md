@@ -14,7 +14,7 @@
     <img height="182cm" src="https://camo.githubusercontent.com/f2c5f067b90f27fa1f0869b4b98b442d65267600065767186e3a268c9904a4c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6775737461766f686e64266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/
   ?username=rodrigobarros19&show_icons=true&theme=chartreuse-dark"/>
   
-  [![Readme Card: show_owner](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&show_owner&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card: show_owner](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
@@ -22,18 +22,37 @@
 
 <b>SIGA-ME NAS REDES SOCIAIS</b> ⤵
 
-<a href="https://www.facebook.com/rdkeyboard/">
-  <img align="left" alt="Abhishek's Facebook" width="22px" src="https://seeklogo.com/images/F/facebook-logo-C64946D6D2-seeklogo.com.png" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/rodrigobarros19/" target="_blank">
+    <img alt="Abhishek's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img alt="Abhishek's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
+  <a href="https://mail.google.com/mail/u/1/#inbox/" target="_blank">
+    <img alt="Abhishek's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://wa.me/qr/NVP4V2ZLD2QKJ1" target="_blank">
+    <img alt="Abhishek's WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  
+  <a href="https://t.me/rodrigobarros" target="_blank">
+    <img alt="Abhishek's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>  
+</div>
+  
+  <a href="https://www.facebook.com/rdkeyboard/" target="_blank">
+    <img alt="Abhishek's Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-<a href="https://www.instagram.com/rodrigobarrosreal/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+  <a href="https://www.instagram.com/rodrigobarrosreal/" target="_blank">
+    <img alt="Abhishek's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/rodrigobarros19/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
 ##
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
