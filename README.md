@@ -4,7 +4,7 @@
 
 - 📚  Estudando Análise e Desenvolvimento de Sistemas;
 - 🌱  Aprendendo HTML5, CSS3, JavaScript, entre outros;
-- 💻  Procurando aprender novas tecnologias;
+- 💻  Buscando aprender novas tecnologias;
 - 👨🏻‍💻  Buscando colaborar em novos projetos.
 
 <div>
