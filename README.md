@@ -11,9 +11,19 @@
   <a href="https://github.com/rodrigobarros19">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rodrigobarros19&show_icons=true&theme=chartreuse-dark"/>
    <img height="180cm" src="https://camo.githubusercontent.com/097dbe80a6719316f2c1cf0cd3d0b50ab1b51da076b858c010b6adddd771b457/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d706564726f6272616e64616f3233267468656d653d636861727472657573652d6461726b" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigobarros19&amp;theme=chartreuse-dark" style="max-width: 100%;">
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rodrigo-HTML"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rodrigo-CSS"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rodrigo-Js"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<br>
+
+<div>
     <img height="182cm" src="https://camo.githubusercontent.com/f2c5f067b90f27fa1f0869b4b98b442d65267600065767186e3a268c9904a4c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6775737461766f686e64266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/
   ?username=rodrigobarros19&show_icons=true&theme=chartreuse-dark"/>
-  
+    
   [![Readme Card: show_owner](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
