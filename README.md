@@ -24,7 +24,7 @@
     <img height="182cm" src="https://camo.githubusercontent.com/f2c5f067b90f27fa1f0869b4b98b442d65267600065767186e3a268c9904a4c5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6775737461766f686e64266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/
   ?username=rodrigobarros19&show_icons=true&theme=chartreuse-dark"/>
     
-  [![Readme Card: show_owner](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card: show_owner](https://github-readme-stats.vercel.app/api/pin/?username=rodrigobarros19&repo=github-readme-stats)](https://github.com/rodrigobarros19/github-readme-stats)
   </a>
 </div>
 
