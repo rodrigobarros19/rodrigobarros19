@@ -3,7 +3,7 @@
 <b> ATUALMENTE ESTOU: </b>
 
 - 📚  Estudando Análise e Desenvolvimento de Sistemas;
-- 🌱  Aprendendo HTML5, CSS3, JavaScript, entre outros;
+- 📚  Estudando Desenvolvimento Full Stack Java;
 - 💻  Buscando aprender novas tecnologias;
 - 👨🏻‍💻  Buscando colaborar em novos projetos.
 
