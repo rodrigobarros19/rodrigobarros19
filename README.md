@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Rodrigo Barros 👨🏻‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p> Com um forte embasamento na EBAC e na Estácio, me concentro no desenvolvimento de soluções tecnológicas e melhoria contínua. Na LATAM Airlines, contribuí ativamente para operações de transporte aéreo, integrando habilidades em JavaScript e CSS para otimizar procedimentos. </p>
+<p> - Com um forte embasamento na EBAC e na Estácio, me concentro no desenvolvimento de soluções tecnológicas e melhoria contínua. Na LATAM Airlines, contribuí ativamente para operações de transporte aéreo, integrando habilidades em JavaScript e CSS para otimizar procedimentos. </p>
 
-<p> Valorizo a colaboração e a inovação, e estou sempre em busca de aprimorar minhas competências em front-end. Meu compromisso com a excelência é evidente na forma como abordo desafios e na dedicação ao aprendizado contínuo em tecnologia, visando contribuir significativamente para projetos futuros. </p>
-
+<p> - Valorizo a colaboração e a inovação, e estou sempre em busca de aprimorar minhas competências em front-end. Meu compromisso com a excelência é evidente na forma como abordo desafios e na dedicação ao aprendizado contínuo em tecnologia, visando contribuir significativamente para projetos futuros. </p>
+<br><br>
 <b> ATUALMENTE ESTOU: </b>
 
 - 📚  Estudando Análise e Desenvolvimento de Sistemas;
